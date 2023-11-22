@@ -37,7 +37,7 @@ switch (xp)
     break
 
     case 9001 <= 10000:
-    console.log(nomeHeroi + "Está no nível Ferro")
+    console.log(nomeHeroi + "Está no nível Radiante")
     break
 }
 
